@@ -1,0 +1,1 @@
+.\py-qt\Scripts\activate.bat && start py-qt\python.exe main.py
