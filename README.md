@@ -19,6 +19,12 @@ L'architechture du projet se divise comme suit:
 4. ``/tools`` : Contiennent des fonctions utilent pour le code principale comme le controlleur par camera.
 5. ``main.py`` : Point d'entrée de l'application.
 
+## Langage et Bibliothèque
+- ``Python`` : Tout le code est ecrit en python
+- ``PyQT``  : Bibliothèque **QT** pour faire des interface graphique en python
+- ``OpenCV`` : Bibliothèque de traitement d'image en python.
+- ``Mediapipe`` : Bibliothèque de `Computer vision` qui nous a permit de traquer les point caractéristique de la main.
+
 ## Aperçu
 
 ![img.png](img.png)
